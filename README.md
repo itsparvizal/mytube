@@ -1,4 +1,4 @@
-#Mytube - a youtube clone
+#Mytube - a youtube clone ( made with the help of video from kishan sheth's channel )
 Screenshots - 
 
 ![Screenshot (11)](https://github.com/itsparvizal/mytube/assets/103477145/fa13f53c-f985-497e-93cd-a1cde2a7a0cf)
